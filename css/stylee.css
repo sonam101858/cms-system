@@ -1,0 +1,23 @@
+.a{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+   
+}
+.navbar-brand:hover{
+    color: white;
+   
+}
+.navbar-brand{
+    color: white;
+    
+}
+.FieldInfo{
+    color:rgb(251, 174, 44);
+    font-family: Bitter, Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
