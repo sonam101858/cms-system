@@ -26,7 +26,8 @@ if (isset($_POST["submit"])) {
     date_default_timezone_set("Asia/Karachi");
     $CurrentTime = time();
     $DateTime = strftime("%B-%d-%y %H:%M:%S", $CurrentTime);
-
+    //new code
+    //new comment 
     if (empty($PostTitle)) {
         echo "post is emoty";
         $_SESSION["ErrorMessage"] = "Title cant be empty";
